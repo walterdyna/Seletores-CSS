@@ -1,0 +1,51 @@
+* {
+    margin: 010px;
+    padding: 0;
+    background: aquamarine;
+}
+
+#primeiro-titulo {
+    color: rebeccapurple;
+    font-size: 55px;
+}
+
+#paragrafo-com-nada {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#botao {
+    background: green;
+    border-color: darkgreen;
+    color: aqua;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#outro-botao {
+    background: chocolate;
+    border-color: brown;
+    color: aqua;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+#segundo-titulo {
+    color: goldenrod;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.texto {
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+span {
+    color: red;
+    font-size: 30px;
+    font-weight: bolder;
+}
